@@ -10,5 +10,5 @@
     "start": "parcel index.html",
     "build": "parcel build --public-url . index.html"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
