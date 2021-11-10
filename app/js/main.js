@@ -3,7 +3,6 @@ import Map from 'ol/Map';
 import OSM from 'ol/source/OSM';
 import TileLayer from 'ol/layer/Tile';
 import TileWMS from 'ol/source/TileWMS';
-import ImageWMS from 'ol/source/ImageWMS';
 import View from 'ol/View';
 import { transform } from 'ol/proj';
 
