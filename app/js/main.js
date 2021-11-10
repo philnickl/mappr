@@ -30,6 +30,7 @@ const layers = [
         width: 256,
         height: 256,
       },
+      extent: [...convertCoordsTo3857(nsw_nw), ...convertCoordsTo3857(nsw_se)],
       serverType: 'geoserver',
     }),
   }),
