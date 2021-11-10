@@ -9,5 +9,6 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build --public-url . index.html"
-  }
+  },
+  "version": "0.0.1"
 }
